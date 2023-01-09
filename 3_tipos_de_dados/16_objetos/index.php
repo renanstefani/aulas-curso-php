@@ -8,10 +8,6 @@ class Pessoa {
 
 $renan = new Pessoa();
 
-$renan->nome = "Renan";
-
-echo $renan->nome;
-
 echo "<br>";
 
 $renan->falar();
