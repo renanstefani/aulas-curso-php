@@ -5,7 +5,7 @@ $string = "Isso é uma string.";
 // substr(string pai, indice inicial, comprimento da palvra)
 $minha = substr($string, 12, 6);
 
-echo $sting . "<br>";
+echo $string . "<br>";
 echo $minha . "<br>";
 
 
